@@ -1,0 +1,17 @@
+{
+  "id": "",
+  "title": "Page 1 Title",
+  "files": [
+    {
+      "path": "#tabs",
+      "action": "close"
+    }
+  ],
+  "layout": "1-panel",
+  "path": [],
+  "type": "page",
+  "contentType": "markdown",
+  "teacherOnly": false,
+  "closeTerminalSession": true,
+  "learningObjectives": ""
+}

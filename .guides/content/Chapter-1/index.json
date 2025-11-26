@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "type": "chapter",
+  "title": "Chapter Title",
+  "order": [
+    "Section-1",
+    "Section-2"
+  ]
+}
